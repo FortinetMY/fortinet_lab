@@ -23,5 +23,4 @@ def guess_the_number():
             print("Please enter a valid number.")
 
 # Run the game testing
-# example testing
 guess_the_number()
