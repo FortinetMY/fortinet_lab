@@ -3,7 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\fortinet\\source\\repos\\fortinet_lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fortinet\\source\\repos\\hello-world\\Java_test3||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fortinet\\source\\repos\\fortinet_lab\\Script_python2||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Script_python2||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fortinet\\source\\repos\\fortinet_lab\\testing2||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:testing2||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,28 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testing2",
+              "DocumentMoniker": "C:\\Users\\fortinet\\source\\repos\\fortinet_lab\\testing2",
+              "RelativeDocumentMoniker": "testing2",
+              "ToolTip": "C:\\Users\\fortinet\\source\\repos\\fortinet_lab\\testing2 [Read Only]",
+              "RelativeToolTip": "testing2 [Read Only]",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAOAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-22T13:52:52.797Z",
+              "EditorCaption": " [Read Only]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Java_test3",
-              "DocumentMoniker": "C:\\Users\\fortinet\\source\\repos\\hello-world\\Java_test3",
-              "RelativeDocumentMoniker": "..\\hello-world\\Java_test3",
-              "ToolTip": "C:\\Users\\fortinet\\source\\repos\\hello-world\\Java_test3",
-              "RelativeToolTip": "..\\hello-world\\Java_test3",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Title": "Script_python2",
+              "DocumentMoniker": "C:\\Users\\fortinet\\source\\repos\\fortinet_lab\\Script_python2",
+              "RelativeDocumentMoniker": "Script_python2",
+              "ToolTip": "C:\\Users\\fortinet\\source\\repos\\fortinet_lab\\Script_python2",
+              "RelativeToolTip": "Script_python2",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-21T05:18:58.571Z",
+              "WhenOpened": "2025-10-22T13:50:27.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Bookmark",
